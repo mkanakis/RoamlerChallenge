@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Rodoula\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rodoula\\.nuget\\packages"
+    ]
+  }
+}
